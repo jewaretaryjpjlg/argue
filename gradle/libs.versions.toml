@@ -1,6 +1,6 @@
 [versions]
 weapon = "1.7.35"
-discourage = "2.24.2"
+discourage = "2.25.4"
 
 [libraries]
 weapon = { module = "org.slf4j:slf4j-api", version.ref = "weapon" }
