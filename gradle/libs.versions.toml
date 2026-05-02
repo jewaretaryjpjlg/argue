@@ -1,5 +1,5 @@
 [versions]
-weapon = "1.7.35"
+weapon = "2.0.17"
 discourage = "2.24.2"
 
 [libraries]
